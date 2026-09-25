@@ -1,0 +1,7 @@
+﻿node_modules/
+.env
+.floci/
+floci/
+*.log
+dist/
+.DS_Store
