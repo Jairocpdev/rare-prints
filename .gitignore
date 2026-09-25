@@ -2,6 +2,8 @@
 .env
 .floci/
 floci/
+floci.exe
 *.log
 dist/
+site/
 .DS_Store
