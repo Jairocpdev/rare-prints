@@ -1,9 +1,7 @@
 ﻿node_modules/
 .env
 .floci/
-floci/
 floci.exe
+floci-data/
 *.log
-dist/
-site/
 .DS_Store
